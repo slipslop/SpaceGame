@@ -2,6 +2,7 @@
 a small game made with TypeScript and Webpack.
 
 npm install
+
 npm run build
 
 From this project I learned:
