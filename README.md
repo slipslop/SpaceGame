@@ -1,7 +1,8 @@
 # SpaceGame
 a small game made with TypeScript and Webpack.
 
-To build, run " npm run build "
+npm install
+npm run build
 
 From this project I learned:
   - Typescript.
